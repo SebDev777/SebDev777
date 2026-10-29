@@ -10,7 +10,7 @@ Building things, solving problems, and turning ideas into code.
 
 🇨🇴 Based in Colombia
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/SebDev777">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
